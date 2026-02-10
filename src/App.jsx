@@ -1,14 +1,14 @@
-import { calculator } from '../calculator'
+import { Calculator } from './components/calculator';
 import './App.css'
 
 function App(){
-  <calculator/>
+ 
 
-  return 
+  return (
     <>
-      
+      <Calculator />
     </>
-  )
+  );
 }
 
-
+export default App

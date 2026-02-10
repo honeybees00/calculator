@@ -1,0 +1,4 @@
+.env
+Vite_supabase_url="https://ugzptqatywysefonuqip.supabase.co"
+Vite_supabase_Id+="ugzptqatywysefonuqip"
+Vite_supabase_api=""
